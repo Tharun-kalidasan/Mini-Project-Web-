@@ -15,4 +15,4 @@ The preferences will be saved and can be viewed in PDF format for easy sharing a
 
 
 ## Contact
-Email: support@example.com
+Email: tharun.k2023@vitstudent.ac.in
